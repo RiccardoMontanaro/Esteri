@@ -1,0 +1,11 @@
+.pippo{
+	text-align: center;
+	color: green;
+	font-size: 40px;
+}
+
+.immagine{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
